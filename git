@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initial commit for Product Showcase"
+git push origin main
